@@ -166,7 +166,7 @@ if not MoveMouse and false then --If no mouse movement function exists, then...
     --error("Script failed: Your exploit has no mouse movement function") --...print this message.
 else --Otherwise, if the function does exist, then execute this code
    
-    --print("Temporal Aimbot v"..version.." Starting...") --Print message. UPDATE 9/16/2020: GAMES CAN EASILY SEE WHAT MESSAGES GET PRINTED TO CONSOLE LMAO SORRY
+    --print("ADCheats Aimbot v"..version.." Starting...") --Print message. UPDATE 9/16/2020: GAMES CAN EASILY SEE WHAT MESSAGES GET PRINTED TO CONSOLE LMAO SORRY
    
     wait(0.5)
    
@@ -299,7 +299,7 @@ else --Otherwise, if the function does exist, then execute this code
             elseif isHovering(buttons.AimPart) then
                 t("The name of the part in the target's character to lock onto.")
             else
-                t("Make sure to set your sensitivity to 0.36 (1 bar) or else the aimbot will freak out! (Set to '1' on Windows App Version) Report any bugs to angeld23#6785 on Discord. Join the discord server: discord.me/temporal")
+                t("Make sure to set your sensitivity to 0.36 (1 bar) or else the aimbot will freak out! (Set to '1' on Windows App Version)")
             end
            
             if target then
