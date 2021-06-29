@@ -1,4 +1,4 @@
---ADCheatsf Aimbot
+--ADCheats Aimbot
 wait()
  
 --Custom Game Support
