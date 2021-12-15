@@ -13,3 +13,12 @@
   </div>
 </body>
 </html>
+document.addEventListener("DOMContentLoaded", () => {
+inputValue.addEventListener("keydown", (e) => {
+      if (e.code === "Enter") {
+        let input = inputValue.value;
+        inputValue.value = "";
+        output(input);
+      }
+    });
+  });
